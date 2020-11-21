@@ -4,7 +4,7 @@
 2. 코드를 다운받고 C:/Apache24/htdocs 로 폴더를 이동한다
 3. 브라우저에 localhost/폴더명/hello.php 를 실행해서 Hello PHP가 출력되나 확인한다
 4. input.md 를 참조하여 데이터 베이스 구축한다
-5. mysql.md 는 간단하고 사용했던 내용들을 설명한 문서이며 첫 입문자면 참고한다
+5. mysql.md 는 사용했던 MySQL 내용들을 설명한 문서이다
 5. JavaScript 의 window.history 객체를 사용한 페이지는 새로고침 해서 확인한다
 ```
 # PHP란 무엇인가?
