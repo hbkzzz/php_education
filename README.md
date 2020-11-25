@@ -1,4 +1,12 @@
-# 사용방법
+# PHP Note
+
+PHP Web Development
+
+## PHP란 무엇인가?
+" PHP: Hypertext Preprocessor"의 약자 인 PHP 는 널리 사용되는 오픈 소스 범용 스크립팅 언어로 웹 개발에 특히 적합하며 HTML에 포함 할 수 있습니다. 구문은 C, Java 및 Perl을 기반으로하며 배우기 쉽습니다. 이 언어의 주요 목표는 웹 개발자가 동적으로 생성 된 웹 페이지를 빠르게 작성할 수 있도록하는 것이지만 PHP로 훨씬 더 많은 작업을 수행 할 수 있습니다.
+## APM란 무엇인가?
+Apache + PHP + MySQL 의 줄임말이다. APM 소프트웨어가 존재하는 것이 아니라, 이 3가지가 연동되어 운영되도록 만든 환경을 APM이라고 한다. Apache와 MySQL이 PHP와 호환성이 좋기 때문에 주로 세 프로그램을 묶어 패키지 형태로 사용한다.
+## 사용방법
 ```
 1. php 개발환경을 구축한다
 2. 코드를 다운받고 C:/Apache24/htdocs 로 폴더를 이동한다
@@ -7,19 +15,15 @@
 5. mysql.md 는 사용했던 MySQL 내용들을 설명한 문서이다
 5. JavaScript 의 window.history 객체를 사용한 페이지는 새로고침 해서 확인한다
 ```
-# PHP란 무엇인가?
-" PHP: Hypertext Preprocessor"의 약자 인 PHP 는 널리 사용되는 오픈 소스 범용 스크립팅 언어로 웹 개발에 특히 적합하며 HTML에 포함 할 수 있습니다. 구문은 C, Java 및 Perl을 기반으로하며 배우기 쉽습니다. 이 언어의 주요 목표는 웹 개발자가 동적으로 생성 된 웹 페이지를 빠르게 작성할 수 있도록하는 것이지만 PHP로 훨씬 더 많은 작업을 수행 할 수 있습니다.
-# APM란 무엇인가?
-Apache + PHP + MySQL 의 줄임말이다. APM 소프트웨어가 존재하는 것이 아니라, 이 3가지가 연동되어 운영되도록 만든 환경을 APM이라고 한다. Apache와 MySQL이 PHP와 호환성이 좋기 때문에 주로 세 프로그램을 묶어 패키지 형태로 사용한다.
 ***
 ## 다운로드 링크
 * [Apache](https://www.apachelounge.com/download/) - 운영체제 비트에 맞춰서 zip 다운
 * [PHP](https://windows.php.net/download) - Thread Safe 쪽 zip 다운 
 * [MySQL](https://dev.mysql.com/downloads/installer/) - 두가지 중 용량이 큰 풀버전 다운로드 클릭후 No thanks, just start my download.
 ***
-## 설치 참고사항
+## 설치 참조사항
 * 각 프로그램은 버전 업그레이드 되면서 새로운 기능들이 추가되서 현재 문서에 적힌내용과 다를수 있다
-* 버전이 업그레이드 되고 추가된 기능들은 무슨기능을 하고 어떻게 설치해야 될지는 검색해서 참고
+* 버전이 업그레이드 되고 추가된 기능들은 무슨기능을 하고 어떻게 설치해야 될지는 검색해서 참조
 * 현재 문서내용의 설치 버전
     * Apache 버전 : 2.4.46
     * PHP 버전 : 7.4(7.4.12)
@@ -46,7 +50,7 @@ Apache + PHP + MySQL 의 줄임말이다. APM 소프트웨어가 존재하는 �
 2. php-7.4.12- 폴더를 php로 이름변경 후 C드라이브 이동(예시 - C:/php)
 ```
 ***
-## 설정 참고사항
+## 설정 참조사항
 * Alt + F 검색 활용
 * 메모장 혹은 코드 에디터(IDE)로 파일 열어서 수정
 * 설정파일에서 사용중인 주석 httpd.conf 에서 #, php.ini 에서 ;
