@@ -1,4 +1,4 @@
-# PHP Note
+# PHP, MySQL
 
 PHP Web Development
 
