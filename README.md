@@ -1,6 +1,4 @@
-# PHP, MySQL
-
-PHP Web Development
+# PHP, MySQL Web Development
 
 ## PHP란 무엇인가?
 " PHP: Hypertext Preprocessor"의 약자 인 PHP 는 널리 사용되는 오픈 소스 범용 스크립팅 언어로 웹 개발에 특히 적합하며 HTML에 포함 할 수 있습니다. 구문은 C, Java 및 Perl을 기반으로하며 배우기 쉽습니다. 이 언어의 주요 목표는 웹 개발자가 동적으로 생성 된 웹 페이지를 빠르게 작성할 수 있도록하는 것이지만 PHP로 훨씬 더 많은 작업을 수행 할 수 있습니다.
